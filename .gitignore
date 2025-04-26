@@ -1,0 +1,5 @@
+# Ignore PowerShell history and system files
+*.ps1~
+*.log
+.DS_Store
+Thumbs.db 
